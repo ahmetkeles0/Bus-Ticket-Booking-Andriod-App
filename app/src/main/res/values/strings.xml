@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bus Booking App UI</string>
+    <string-array name="ulkeler">
+        <item>İstanbul</item>
+        <item>İzmir</item>
+        <item>Ankara</item>
+        <item>Antalya</item>
+
+
+    </string-array>
+
+    <string-array name="ulkeler2">
+        <item>İstanbul</item>
+        <item>İzmir</item>
+        <item>Ankara</item>
+        <item>Antalya</item>
+
+    </string-array>
+</resources>

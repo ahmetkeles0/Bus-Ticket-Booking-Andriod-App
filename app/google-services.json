@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241728946362",
+    "project_id": "otobus-43e5c",
+    "storage_bucket": "otobus-43e5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241728946362:android:bedfe446f3e03e8e7dc283",
+        "android_client_info": {
+          "package_name": "com.minemark.platform.busbookingappui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241728946362-roc1ro6re1s2ktvvgontb466slvnbgtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZHWQPSXtwcFLgypcK7M_b1e9S8Gwod8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241728946362-roc1ro6re1s2ktvvgontb466slvnbgtd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
